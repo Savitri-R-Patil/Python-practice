@@ -1,0 +1,20 @@
+>> what happens when you run python 
+>> you write hello.py 
+>> to run programm we have to install the interpreter to interpret and run program 
+>> when i install python for window you install cpython (programm written in c) compiled seperately for windows/linux/mac
+, contains evrything needed to run pyton : it has python.exe (file is interpreter) in window 
+>> INterpreter (python.exe) has ->
+                                *parser
+                                *Compiler
+                                *PvM(executes bytecode )
+
+
+-->interpreter : when we say interpreter exutes and interprets its part of code does these function like *parser =reads and *compiler= convert code to bytecode and *PVM = executes the code 
+
+python is interpreted language means run line by line at runtime
+>>runtime =when code in execution 
+>>in python code compiles to bytcode and immediately executes it (both happens almost together )
+>>compile time= before code runs --> time when source code converted to bytecode /machine code
+ it early detects if any : syntax error 
+
+

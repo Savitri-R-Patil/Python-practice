@@ -1,3 +1,5 @@
+#Dynamic =it means same var hold value of diff datatype
+
 x=50
 x=40.5
 x="hello world"

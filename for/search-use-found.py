@@ -1,6 +1,6 @@
 x=int(input())
 found =False
-arr =(21,31,41,51)
+arr =(21,31,41,51)         #tuple
 for i in range(len(arr)):
     if(x==arr[i]):
         found=True

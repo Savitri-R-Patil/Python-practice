@@ -5,3 +5,5 @@ def count_digit(N):
 
 print(count_digit(234657))
     
+    
+    

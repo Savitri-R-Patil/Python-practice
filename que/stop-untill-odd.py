@@ -1,6 +1,11 @@
-n=int(input())
-if(n%2!=0):
-    break
-else:
-   continue
+
+
+while True:
+    n=int(input(" 1go on entering a nmbers stops automatically when odd number enters :"))
+
+    if(n%2!=0):
+      print("odd")
+      break
+    else:
+      continue
 

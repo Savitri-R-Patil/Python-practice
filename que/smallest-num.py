@@ -5,7 +5,7 @@ for i in range(n):
     list[i]=int(input())
     
 
-small=list[0]
+small=list[0]                     #initialize small -> list[0] because if i do small =0 then it checks for 0> all numbers so 0 is the lowest number itself so it will never change 
 for i in range(n):
     
     if(small>list[i]):
